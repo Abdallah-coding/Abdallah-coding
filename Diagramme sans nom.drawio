@@ -102,16 +102,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-75" value="Démarrer l&#39;analyse des données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="65.5" y="42" width="134.5" height="68" as="geometry" />
+          <mxGeometry x="65.75" y="152" width="134.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-82" target="obNz4sW9q6NuTTQlPOyx-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-82" value="Extraire les hashtags les plus fréquents selon un paramètre &lt;code&gt;K&lt;/code&gt; donné par l&#39;utilisateur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="65.5" y="162" width="134.5" height="60" as="geometry" />
+          <mxGeometry x="65.75" y="255" width="134.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-84" value="Top K Hashtags" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="62.75" y="270" width="140" height="90" as="geometry">
+          <mxGeometry x="60.25" y="342" width="140" height="90" as="geometry">
             <mxRectangle x="62.75" y="270" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-91" value="Top K Utilisateurs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="285.5" y="270" width="134.5" height="100" as="geometry" />
+          <mxGeometry x="275.5" y="312" width="134.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-92" value="Chercher et afficher les utilisateurs les plus actifs dans les tweets" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-91">
           <mxGeometry y="30" width="134.5" height="70" as="geometry" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-100" value="Calcul des Top K Mentions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="285.5" y="402" width="140" height="100" as="geometry" />
+          <mxGeometry x="275.5" y="442" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-101" value="Extraire les utilisateurs les plus mentionnés dans les tweets." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-100">
           <mxGeometry y="30" width="140" height="70" as="geometry" />
@@ -140,8 +140,11 @@
             <mxPoint x="435.5" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-105" target="obNz4sW9q6NuTTQlPOyx-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-105" value="Nombre de Publications par Hashtag et&amp;nbsp;Nombre de Publications par Auteur" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="35.5" y="402" width="210" height="90" as="geometry" />
+          <mxGeometry x="15.5" y="502" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-106" value="Calculer le nombre de tweets par hashtag" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-105">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -152,6 +155,28 @@
         <mxCell id="obNz4sW9q6NuTTQlPOyx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-101" target="obNz4sW9q6NuTTQlPOyx-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-111" value="Résultats avec Matplotlib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="175.5" y="682" width="174.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-114" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="202.75" y="822" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-111" target="obNz4sW9q6NuTTQlPOyx-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="263" y="722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-116" target="obNz4sW9q6NuTTQlPOyx-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-116" value="Début" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="73" y="32" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="133.5" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="obNz4sW9q6NuTTQlPOyx-77" target="obNz4sW9q6NuTTQlPOyx-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="60" as="targetPoint" />
@@ -161,10 +186,10 @@
           <mxGeometry x="250" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-78" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-80" value="Tous les tweets ont été traités et enregistrés dans le DataFrame." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="150" height="55" as="geometry" />
+          <mxGeometry x="420" y="32.5" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="obNz4sW9q6NuTTQlPOyx-80" target="obNz4sW9q6NuTTQlPOyx-78">
           <mxGeometry relative="1" as="geometry" />
