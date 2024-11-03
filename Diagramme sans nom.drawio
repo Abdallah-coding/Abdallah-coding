@@ -135,6 +135,23 @@
         <mxCell id="obNz4sW9q6NuTTQlPOyx-101" value="Extraire les utilisateurs les plus mentionnés dans les tweets." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-100">
           <mxGeometry y="30" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-92" target="obNz4sW9q6NuTTQlPOyx-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.5" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-105" value="Nombre de Publications par Hashtag et&amp;nbsp;Nombre de Publications par Auteur" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="35.5" y="402" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-106" value="Calculer le nombre de tweets par hashtag" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-105">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-107" value="Calculer le nombre de tweets par auteur" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="obNz4sW9q6NuTTQlPOyx-105">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obNz4sW9q6NuTTQlPOyx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="obNz4sW9q6NuTTQlPOyx-101" target="obNz4sW9q6NuTTQlPOyx-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obNz4sW9q6NuTTQlPOyx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="obNz4sW9q6NuTTQlPOyx-77" target="obNz4sW9q6NuTTQlPOyx-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="60" as="targetPoint" />
