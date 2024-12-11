@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdallah-coding
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ and Javascipt, I'm improving with python.
+- 🌱 I’m currently learning C++ and Javascipt, I'm improving with Python.
 - 💞️ I’m looking to collaborate on any coding project(ex:Hackathons, building a website, a game,...)
 - 📫 How to reach me: by e-mail
 
