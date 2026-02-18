@@ -1,8 +1,40 @@
-- 👋 Hi, I’m @Abdallah-coding
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ and Javascipt, I'm improving with Python.
-- 💞️ I’m looking to collaborate on any coding project(ex:Hackathons, building a website, a game,...)
-- 📫 How to reach me: by e-mail
+Computer Science Student
+
+Interested in Artificial Intelligence & Machine Learning
+
+---
+***ABOUT ME***
+
+I am currently studying Computer Science and progressively directing my career toward Artificial Intelligence and Machine Learning.
+
+I enjoy understanding how algorithms work at a fundamental level and applying them to real-world problems involving data, systems, and automation. My goal is to continuously strengthen my foundations in:
+
+- Algorithms & Data Structures
+
+- Databases
+
+- Programming
+
+- Machine Learning concepts
+
+---
+
+I'm currently learning, deepening my knowledge in Python, exploring Machine Learning theory, improving my understanding of AI systems and practicing problem-solving and algorithmic thinking on Hackerrank for example.
+
+Languages:
+**Python • R • C • SQL / PL/SQL • Rust**
+
+Areas of Interest:
+**AI • Machine Learning • Data Science • Algorithms**
+
+
+Goals:
+
+- Build solid ML projects
+
+- Contribute to technical collaborations
+
+- Continue learning and growing in AI-related fields
 
 <!---
 Abdallah-coding/Abdallah-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
